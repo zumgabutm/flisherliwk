@@ -1,18 +1,8 @@
 # zumtm
 
-<p align="center">
-<a href="https://github.com/zumgabutm/zphisher"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
 
 <p align="center">
-<a href="https://github.com/zumgabutm/zphisher"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-zphisher-green.svg"></a>
-<a href="https://github.com/zumgabutm/zphisher"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
-<a href="https://github.com/zumgabutm/zphisher"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-
-</p>
-
-<p align="center">
-<img src="https://i.ibb.co/tD4cgJv/20210319-220513.png" alt="20210319-220513" border="0">
+<img src="[https://i.ibb.co/tD4cgJv/20210319-220513.png](https://ih1.redbubble.net/image.4730827381.9700/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)" alt="20210319-220513" border="0">
 
 </p>
 
