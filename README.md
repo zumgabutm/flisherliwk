@@ -1,4 +1,4 @@
-# ZPHISHER
+# zumtm
 
 <p align="center">
 <a href="https://github.com/zumgabutm/zphisher"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
@@ -27,10 +27,6 @@
 <a href="https://github.com/zumgabutm"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
 
 </p>
-
-## ABOUT TOOL :
-
-ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphish. It have the main source code from Shellphish but ZPhisher have some upgrade and have removed some unnecessary codes from Shellphish. ... It is the all-in-one phishing framework in 2021. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## AVAILABLE ON :
 
@@ -105,15 +101,6 @@ $ docker run --rm -it htrtech/zphisher
 ```
 apt update ; apt install git curl php openssh -y ; git clone https://github.com/zumgabutm/Zphisher.git ; cd Zphisher ; bash setup.sh ; bash zphisher.sh
 ```
-
-
-
-
-
-
-## CONNECT WITH US :
-
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/white_hat_278?igshid=175v9uifresgr)
 
 ## WARNING : 
 
